@@ -15,9 +15,7 @@
 
 
 ## دروس کارشناسی
-<br>
-[1322108_01 روش پژوهش وارائه](https://github.com/ozrahosseini/PNU_3991_AR/tree/main/HumanComputerInteraction)
-<br>
+روش  پژوهش و ارائه
 --------------
 ## روز و ساعت ارائه دروس
 

@@ -47,7 +47,7 @@
     <th>یک شنبه</th>
   </tr>
    <tr>
-     <th ></th>
+     <th >16-18</th>
      <th ></th>
      <th></th>
      <th></th>
@@ -56,7 +56,7 @@
     <th>دوشنبه</th>
   </tr>
    <tr>
-    <th >16-18</th>
+    <th ></th>
     <th ></th>
     <th></th>
     <th></th> 

@@ -14,4 +14,67 @@
     1. [_UID-42_](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/42_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%87%D8%A7%D8%B4%D9%85%20%D8%B2%D8%A7%D8%AF%D9%87)    
 
 
+## دروس کارشناسی
+<br>
+[1322108_01 روش پژوهش وارائه](https://github.com/ozrahosseini/PNU_3991_AR/tree/main/HumanComputerInteraction)
+<br>
+--------------
+## روز و ساعت ارائه دروس
+
+<table style="width:100%">
+  <tr>
+    <th >16-18</th>
+    <th ></th>
+    <th >12-14</th>
+    <th></th>
+    <th></th>
+    <th>روز</th>
+  </tr>
+  <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>  
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+     <th ></th>
+     <th ></th>
+     <th></th>
+    <th>دوشنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th ></th>
+    <th>سه شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+     <th ></th>
+    <th>چهارشنبه</th>
+  </tr>
+   <tr>
+   <th ></th>
+    <th ></th>
+     <th ></th>
+     <th ></th>
+     <th><a></a></th>
+    <th>پنج شنبه</th>
+  </tr>
+</table>
+
     

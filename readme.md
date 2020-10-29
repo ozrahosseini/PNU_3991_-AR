@@ -23,7 +23,7 @@
 
 <table style="width:100%">
   <tr>
-    <th >16-18</th>
+    <th ></th>
     <th ></th>
     <th ></th>
     <th></th>
@@ -56,7 +56,7 @@
     <th>دوشنبه</th>
   </tr>
    <tr>
-    <th ></th>
+    <th >16-18</th>
     <th ></th>
     <th></th>
     <th></th> 

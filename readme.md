@@ -14,9 +14,8 @@
     1. [_UID-42_](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/42_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%87%D8%A7%D8%B4%D9%85%20%D8%B2%D8%A7%D8%AF%D9%87)    
 
 
-## دروس کارشناسی
-روش  پژوهش و ارائه
---------------
+## دروس کارشناس
+-------------- روش پژوهش و ارائه
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">

@@ -43,6 +43,7 @@
     <th ></th>  
     <th></th>
     <th ></th>
+    <th></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
@@ -50,14 +51,14 @@
      <th ></th>
      <th></th>
      <th></th>
-      <th></th>
+     <th></th>
     <th>دوشنبه</th>
   </tr>
    <tr>
     <th ></th>
     <th ></th>
     <th></th>
-    <th></th>
+    <th></th> 
     <th></th>
     <th><a href="github.com/AliRazavi-edu/PNU-3991/tree/master/-BSc/UserInterfaceDesgin">روش پژوهش و ارائه
     <th>سه شنبه</th>

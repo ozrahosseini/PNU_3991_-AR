@@ -3,7 +3,7 @@
 - [Resume](https://ozrahosseini.github.io/) 
 - [SOP](https://.github.io/SOP/)
 - [GitHub](https://github.com/ozrahosseini/)
-- [Js license]
+- [Js license](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/JavaScript_certificate.jpg)
 -----------------
 
 1. G-R02) 

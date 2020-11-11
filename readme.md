@@ -3,6 +3,7 @@
 - [Resume](https://ozrahosseini.github.io/) 
 - [SOP](https://.github.io/SOP/)
 - [GitHub](https://github.com/ozrahosseini/)
+- [Js license]
 -----------------
 
 1. G-R02) 

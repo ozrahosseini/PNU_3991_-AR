@@ -1,7 +1,7 @@
 ## عذرا حسینی
 - [PNU_3991_AR](https://github.com/ozrahosseini/PNU-3991-AR)
 - [Resume](https://ozrahosseini.github.io/) 
-- [SOP](https://.github.io/SOP/)
+- [SOP](https://ozrahosseini.github.io/SOP/)
 - [GitHub](https://github.com/ozrahosseini/)
 - [Js license](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/JavaScript_certificate.jpg)
 -----------------

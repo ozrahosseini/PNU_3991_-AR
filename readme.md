@@ -6,6 +6,7 @@
 - [Js license](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/JavaScript_certificate.jpg)
 - [jlord.pachtwork](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/%DB%B2%DB%B0%DB%B2%DB%B0%DB%B1%DB%B1%DB%B2%DB%B0_%DB%B2%DB%B1%DB%B2%DB%B9%DB%B3%DB%B4.jpg)
 - [choose a good engineering dissertation](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/Dissertation_Thesis_Yuxiao_Zhao0417.pdf)
+http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822
 -----------------
 
 1. G-R02) 

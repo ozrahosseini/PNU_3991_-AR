@@ -14,6 +14,8 @@ The method and research of this source is on page 16
 
 -[latex tex](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/e.hosseini1.tex)
 
+-[ارائه شفاهی](https://drive.google.com/file/d/13LltC2lBeKbuYPOifS5uz2oE-TY00reY/view?usp=drivesdk
+
 
 1. G-R02
    1. [_RPM-15_)عذرا حسینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/05_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D8%A8%D8%A7%D8%A8%D8%A7%20%D8%A8%D8%A7%D9%82%D8%B1%D9%8A)           

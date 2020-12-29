@@ -14,7 +14,7 @@ The method and research of this source is on page 16
 
 - [latex tex](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/e.hosseini1.tex)
 
-- [ارائه شفاهی](https://drive.google.com/file/d/13LltC2lBeKbuYPOifS5uz2oE-TY00reY/view?usp=drivesdk
+- [ارائه شفاهی](https://drive.google.com/file/d/13LltC2lBeKbuYPOifS5uz2oE-TY00reY/view?usp=drivesdk)
 
 
 1. G-R02

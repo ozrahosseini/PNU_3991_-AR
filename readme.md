@@ -89,7 +89,7 @@ The method and research of this source is on page 1
    <tr>
     <th></th>
    <t/></th>
-    <th ></th>
+    <th >فرهنگ تمدن اسلام و ایران</th>
      <th ></th>
      <th >مباحث ویژه 2</th>
      <th>مباحث ویژه2</th>

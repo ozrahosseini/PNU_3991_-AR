@@ -82,16 +82,17 @@ The method and research of this source is on page 1
     <th ></th>
     <th ></th>
     <th></th>
-    <th>طراحی کامپایلر</th>
+    <th></th>
     <th ></th>
     <th>چهارشنبه</th>
   </tr>
    <tr>
     <th></th>
-   <t/>برنامه نویسی</th>
+   <t/></th>
     <th ></th>
-     <th >برنامه نویسی</th>
+     <th ></th>
      <th >مباحث ویژه 2</th>
+     <th>مباحث ویژه2</th>
      <th></th>
     <th>پنج شنبه</th>
   </tr>

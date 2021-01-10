@@ -43,10 +43,10 @@ The method and research of this source is on page 1
   </tr>
   <tr>
     <th></th>
-    <th >اصول طراحی کامپایلر</th>
     <th ></th>
     <th ></th>
-    <th>نظریه زبان ها و ماشین</th>
+    <th ></th>
+    <th>شبکه های کامپیوتری</th>
     <th></th>
     <th>شنبه</th>
   </tr>

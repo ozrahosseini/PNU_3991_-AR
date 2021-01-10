@@ -9,6 +9,7 @@
 http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822
 The method and research of this source is on page 1
 ------------------------------
+##latex
 - [latex](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/e.hosseini1.pdf)
 
 

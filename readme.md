@@ -53,9 +53,9 @@ The method and research of this source is on page 1
    <tr>
     <th></th>
     <th ></th>
-    <th >مدار منطقی</th>
+    <th >مبانی کاربردی هوش مصنوعی</th>
     <th ></th>
-    <th>اندیشه اسلامی</th>
+    <th></th>
     <th ></th>
     <th>یک شنبه</th>
   </tr>

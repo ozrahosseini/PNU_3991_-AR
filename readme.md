@@ -60,8 +60,8 @@ The method and research of this source is on page 1
     <th>یک شنبه</th>
   </tr>
    <tr>
-    <th> ارائه و پژوهش</th>
-     <th ></th>
+    <th></th>
+     <th >ارائه وپژوهش</th>
      <th ></th>
      <th></th>
     <th></th>

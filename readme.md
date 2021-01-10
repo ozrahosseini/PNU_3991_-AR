@@ -72,8 +72,8 @@ The method and research of this source is on page 1
     <th></th>
     <th ></th>
     <th ></th>
-    <th>مدار منطقی</th>
-    <th>مدار الکتریکی و الکترونیکی</th>
+    <th>سیستم های عامل</th>
+    <th></th>
     <th ></th>
     <th>سه شنبه</th>
   </tr>

@@ -16,7 +16,7 @@
 http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822
 The method and research of this source is on page 16
 --------------------------
-## latex
+## لاتکس تکس
 - [latex](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/e.hosseini1.pdf)
 
 

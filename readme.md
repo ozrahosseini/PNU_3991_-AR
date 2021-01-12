@@ -9,6 +9,7 @@
 - [دانشگاه آدلاید استرالیا](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/pajohesh.pdf)
 - [تکس](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/e.hosseini1.tex)
 - [ARZ.PDF](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/arz.pdf)
+- [PIC1.JPG](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/pic1.jpg)
 ## جستجوی منابع دیگر
 - [choose a good engineering dissertation](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/Dissertation_Thesis_Yuxiao_Zhao0417.pdf)
 http://rave.ohiolink.edu/etdc/view?acc_num=osu1587147304509822

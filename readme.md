@@ -23,6 +23,7 @@ The method and research of this source is on page 16
 
 - [ارائه شفاهی](https://drive.google.com/file/d/13LltC2lBeKbuYPOifS5uz2oE-TY00reY/view?usp=drivesdk)
 ---------------------- 
+ارزیابی ها
 ## بخش عمومی 
 - [رزومه و انگیزه نامه](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991%20(1).pdf)
 - [خلاصه شرح بخش عمومی](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)

@@ -29,7 +29,9 @@ The method and research of this source is on page 16
 ## بخش عمومی 
 - [رزومه و انگیزه نامه](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/XX_CV_CheckList_AR_3991%20(1).pdf)
 - [خلاصه شرح بخش عمومی](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/XX_GeneralSection_CheckList_AR_3991.pdf)
+## بخش دروس کارشناسی
 - [ خلاصه شرح درس روش و پژوهش](https://github.com/ozrahosseini/PNU_3991_AR/blob/main/XX_ResearchAndPresentationMethods_CheckList_AR_3991%20(1).pdf)
+## گروه
 1. G-R02
    1. [_RPM-15 عذرا حسینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/05_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D8%A8%D8%A7%D8%A8%D8%A7%20%D8%A8%D8%A7%D9%82%D8%B1%D9%8A)           
     1. [_RPM-23_فاطمه  رشیدی اصل](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/UserInterfaceDesgin/05_%D9%85%D8%B9%D8%B5%D9%88%D9%85%D9%87%20%D8%A8%D8%A7%D8%A8%D8%A7%20%D8%A8%D8%A7%D9%82%D8%B1%D9%8A)    

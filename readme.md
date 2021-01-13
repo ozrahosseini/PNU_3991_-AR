@@ -44,7 +44,7 @@ The method and research of this source is on page 16
 -------------
 # </s> </s> روش  پژوهش و ارائه
 ## روز و ساعت ارائه دروس
-
+</div>
 <table style="width:100%">
   <tr>
     <th>18-20</th>
